@@ -1,5 +1,5 @@
 {
-    "name": "stremevision/marshal-serializer",
+    "name": "xtremevision/marshal-serializer",
     "description": "Marshal is serializing / marshalling data structures to the desired format. It is also deserializing / unmarshalling the format back to the data structures.",
     "keywords": ["serializer","deserializer","marshalling","unmarshalling","serialization","deserialization","marshal","mappers","json","xml"],
     "type": "library",
@@ -21,7 +21,7 @@
         }
     },
     "require": {
-        "php": ">=7.0"
+        "php": "^7.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^6.5"
